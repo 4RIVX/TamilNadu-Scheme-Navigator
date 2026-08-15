@@ -1,0 +1,23 @@
+﻿{
+    "answer":  "விதவை ஓய்வூதியத் திட்டத்திற்கு தகுதியானவர்கள்:\n*   ஆதரவற்ற விதவை\n*   வயது 18 மற்றும் அதற்கு மேல்\n*   நிலையான சொத்துக்கள் ₹1,00,000/- மிகாமல் இருக்க வேண்டும் (இலவச வீடு ஒதுக்கீடு செய்யப்பட்டால் இது பொருந்தாது).\n\nமேலும் தகவலுக்கு, அதிகாரப்பூர்வ வலைத்தளத்தைப் பார்வையிடவும்: https://cra.tn.gov.in/eleg_schemes.php",
+    "fallback":  false,
+    "ok":  true,
+    "sources":  [
+                    {
+                        "dataStatus":  "verified",
+                        "department":  "Commissionerate of Revenue Administration and Disaster Management, Govt of Tamil Nadu",
+                        "eligibility":  [
+                                            "Destitute Widow",
+                                            "Age 18 years and above",
+                                            "Fixed assets not exceeding ₹1,00,000 (waived if free house assigned)"
+                                        ],
+                        "id":  "destitute-widow-pension",
+                        "nameEn":  "Destitute Widow Pension Scheme (DWPS)",
+                        "nameTa":  "விதவை ஓய்வூதியம்",
+                        "notes":  "VERIFIED: Eligibility confirmed live. No ₹/month amount stated on official page.",
+                        "officialPageUrl":  "https://cra.tn.gov.in/eleg_schemes.php",
+                        "sourceUrl":  "https://cra.tn.gov.in/eleg_schemes.php",
+                        "verificationDate":  "2026-08-12"
+                    }
+                ]
+}

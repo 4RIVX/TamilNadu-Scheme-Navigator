@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "TN Scheme Navigator",
+    "slug": "tn-scheme-navigator",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "tn-scheme-navigator",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
